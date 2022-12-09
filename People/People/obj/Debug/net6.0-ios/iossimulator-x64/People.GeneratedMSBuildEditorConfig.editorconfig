@@ -1,0 +1,341 @@
+is_global = true
+build_property.TargetFramework = net6.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = People
+build_property.ProjectDir = C:\Users\Samsung\Downloads\SQLite\mslearn-dotnetmaui-store-local-data-main\People\People\
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/exercise1/Alignment/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.exercise1.Alignment.App.xaml
+build_metadata.AdditionalFiles.TargetPath = exercise1\Alignment\App.xaml
+build_metadata.AdditionalFiles.RelativePath = exercise1\Alignment\App.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/exercise1/Alignment/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.exercise1.Alignment.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = exercise1\Alignment\AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = exercise1\Alignment\AppShell.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/exercise1/Alignment/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.exercise1.Alignment.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = exercise1\Alignment\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = exercise1\Alignment\MainPage.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/exercise1/Alignment/Platforms/Windows/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.exercise1.Alignment.Platforms.Windows.App.xaml
+build_metadata.AdditionalFiles.TargetPath = exercise1\Alignment\Platforms\Windows\App.xaml
+build_metadata.AdditionalFiles.RelativePath = exercise1\Alignment\Platforms\Windows\App.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/exercise1/Alignment/Resources/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.exercise1.Alignment.Resources.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = exercise1\Alignment\Resources\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = exercise1\Alignment\Resources\Colors.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/exercise1/Alignment/Resources/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.exercise1.Alignment.Resources.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = exercise1\Alignment\Resources\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = exercise1\Alignment\Resources\Styles.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/exercise1/Notes/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.exercise1.Notes.App.xaml
+build_metadata.AdditionalFiles.TargetPath = exercise1\Notes\App.xaml
+build_metadata.AdditionalFiles.RelativePath = exercise1\Notes\App.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/exercise1/Notes/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.exercise1.Notes.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = exercise1\Notes\AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = exercise1\Notes\AppShell.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/exercise1/Notes/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.exercise1.Notes.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = exercise1\Notes\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = exercise1\Notes\MainPage.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/exercise1/Notes/Platforms/Windows/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.exercise1.Notes.Platforms.Windows.App.xaml
+build_metadata.AdditionalFiles.TargetPath = exercise1\Notes\Platforms\Windows\App.xaml
+build_metadata.AdditionalFiles.RelativePath = exercise1\Notes\Platforms\Windows\App.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/exercise1/Notes/Resources/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.exercise1.Notes.Resources.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = exercise1\Notes\Resources\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = exercise1\Notes\Resources\Colors.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/exercise1/Notes/Resources/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.exercise1.Notes.Resources.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = exercise1\Notes\Resources\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = exercise1\Notes\Resources\Styles.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/exercise2/Notes/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.exercise2.Notes.App.xaml
+build_metadata.AdditionalFiles.TargetPath = exercise2\Notes\App.xaml
+build_metadata.AdditionalFiles.RelativePath = exercise2\Notes\App.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/exercise2/Notes/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.exercise2.Notes.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = exercise2\Notes\AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = exercise2\Notes\AppShell.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/exercise2/Notes/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.exercise2.Notes.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = exercise2\Notes\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = exercise2\Notes\MainPage.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/exercise2/Notes/Platforms/Windows/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.exercise2.Notes.Platforms.Windows.App.xaml
+build_metadata.AdditionalFiles.TargetPath = exercise2\Notes\Platforms\Windows\App.xaml
+build_metadata.AdditionalFiles.RelativePath = exercise2\Notes\Platforms\Windows\App.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/exercise2/Notes/Resources/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.exercise2.Notes.Resources.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = exercise2\Notes\Resources\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = exercise2\Notes\Resources\Colors.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/exercise2/Notes/Resources/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.exercise2.Notes.Resources.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = exercise2\Notes\Resources\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = exercise2\Notes\Resources\Styles.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/exercise2/TipCalculator/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.exercise2.TipCalculator.App.xaml
+build_metadata.AdditionalFiles.TargetPath = exercise2\TipCalculator\App.xaml
+build_metadata.AdditionalFiles.RelativePath = exercise2\TipCalculator\App.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/exercise2/TipCalculator/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.exercise2.TipCalculator.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = exercise2\TipCalculator\AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = exercise2\TipCalculator\AppShell.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/exercise2/TipCalculator/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.exercise2.TipCalculator.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = exercise2\TipCalculator\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = exercise2\TipCalculator\MainPage.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/exercise2/TipCalculator/Platforms/Windows/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.exercise2.TipCalculator.Platforms.Windows.App.xaml
+build_metadata.AdditionalFiles.TargetPath = exercise2\TipCalculator\Platforms\Windows\App.xaml
+build_metadata.AdditionalFiles.RelativePath = exercise2\TipCalculator\Platforms\Windows\App.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/exercise2/TipCalculator/Resources/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.exercise2.TipCalculator.Resources.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = exercise2\TipCalculator\Resources\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = exercise2\TipCalculator\Resources\Colors.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/exercise2/TipCalculator/Resources/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.exercise2.TipCalculator.Resources.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = exercise2\TipCalculator\Resources\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = exercise2\TipCalculator\Resources\Styles.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/exercise3/TipCalculator/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.exercise3.TipCalculator.App.xaml
+build_metadata.AdditionalFiles.TargetPath = exercise3\TipCalculator\App.xaml
+build_metadata.AdditionalFiles.RelativePath = exercise3\TipCalculator\App.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/exercise3/TipCalculator/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.exercise3.TipCalculator.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = exercise3\TipCalculator\AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = exercise3\TipCalculator\AppShell.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/exercise3/TipCalculator/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.exercise3.TipCalculator.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = exercise3\TipCalculator\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = exercise3\TipCalculator\MainPage.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/exercise3/TipCalculator/Platforms/Windows/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.exercise3.TipCalculator.Platforms.Windows.App.xaml
+build_metadata.AdditionalFiles.TargetPath = exercise3\TipCalculator\Platforms\Windows\App.xaml
+build_metadata.AdditionalFiles.RelativePath = exercise3\TipCalculator\Platforms\Windows\App.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/exercise3/TipCalculator/Resources/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.exercise3.TipCalculator.Resources.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = exercise3\TipCalculator\Resources\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = exercise3\TipCalculator\Resources\Colors.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/exercise3/TipCalculator/Resources/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.exercise3.TipCalculator.Resources.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = exercise3\TipCalculator\Resources\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = exercise3\TipCalculator\Resources\Styles.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/mslearn-dotnetmaui-customize-xaml-pages-layout-main/exercise1/Alignment/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.mslearn_dotnetmaui_customize_xaml_pages_layout_main.exercise1.Alignment.App.xaml
+build_metadata.AdditionalFiles.TargetPath = mslearn-dotnetmaui-customize-xaml-pages-layout-main\exercise1\Alignment\App.xaml
+build_metadata.AdditionalFiles.RelativePath = mslearn-dotnetmaui-customize-xaml-pages-layout-main\exercise1\Alignment\App.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/mslearn-dotnetmaui-customize-xaml-pages-layout-main/exercise1/Alignment/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.mslearn_dotnetmaui_customize_xaml_pages_layout_main.exercise1.Alignment.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = mslearn-dotnetmaui-customize-xaml-pages-layout-main\exercise1\Alignment\AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = mslearn-dotnetmaui-customize-xaml-pages-layout-main\exercise1\Alignment\AppShell.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/mslearn-dotnetmaui-customize-xaml-pages-layout-main/exercise1/Alignment/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.mslearn_dotnetmaui_customize_xaml_pages_layout_main.exercise1.Alignment.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = mslearn-dotnetmaui-customize-xaml-pages-layout-main\exercise1\Alignment\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = mslearn-dotnetmaui-customize-xaml-pages-layout-main\exercise1\Alignment\MainPage.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/mslearn-dotnetmaui-customize-xaml-pages-layout-main/exercise1/Alignment/Platforms/Windows/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.mslearn_dotnetmaui_customize_xaml_pages_layout_main.exercise1.Alignment.Platforms.Windows.App.xaml
+build_metadata.AdditionalFiles.TargetPath = mslearn-dotnetmaui-customize-xaml-pages-layout-main\exercise1\Alignment\Platforms\Windows\App.xaml
+build_metadata.AdditionalFiles.RelativePath = mslearn-dotnetmaui-customize-xaml-pages-layout-main\exercise1\Alignment\Platforms\Windows\App.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/mslearn-dotnetmaui-customize-xaml-pages-layout-main/exercise1/Alignment/Resources/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.mslearn_dotnetmaui_customize_xaml_pages_layout_main.exercise1.Alignment.Resources.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = mslearn-dotnetmaui-customize-xaml-pages-layout-main\exercise1\Alignment\Resources\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = mslearn-dotnetmaui-customize-xaml-pages-layout-main\exercise1\Alignment\Resources\Colors.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/mslearn-dotnetmaui-customize-xaml-pages-layout-main/exercise1/Alignment/Resources/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.mslearn_dotnetmaui_customize_xaml_pages_layout_main.exercise1.Alignment.Resources.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = mslearn-dotnetmaui-customize-xaml-pages-layout-main\exercise1\Alignment\Resources\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = mslearn-dotnetmaui-customize-xaml-pages-layout-main\exercise1\Alignment\Resources\Styles.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/mslearn-dotnetmaui-customize-xaml-pages-layout-main/exercise2/TipCalculator/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.mslearn_dotnetmaui_customize_xaml_pages_layout_main.exercise2.TipCalculator.App.xaml
+build_metadata.AdditionalFiles.TargetPath = mslearn-dotnetmaui-customize-xaml-pages-layout-main\exercise2\TipCalculator\App.xaml
+build_metadata.AdditionalFiles.RelativePath = mslearn-dotnetmaui-customize-xaml-pages-layout-main\exercise2\TipCalculator\App.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/mslearn-dotnetmaui-customize-xaml-pages-layout-main/exercise2/TipCalculator/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.mslearn_dotnetmaui_customize_xaml_pages_layout_main.exercise2.TipCalculator.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = mslearn-dotnetmaui-customize-xaml-pages-layout-main\exercise2\TipCalculator\AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = mslearn-dotnetmaui-customize-xaml-pages-layout-main\exercise2\TipCalculator\AppShell.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/mslearn-dotnetmaui-customize-xaml-pages-layout-main/exercise2/TipCalculator/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.mslearn_dotnetmaui_customize_xaml_pages_layout_main.exercise2.TipCalculator.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = mslearn-dotnetmaui-customize-xaml-pages-layout-main\exercise2\TipCalculator\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = mslearn-dotnetmaui-customize-xaml-pages-layout-main\exercise2\TipCalculator\MainPage.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/mslearn-dotnetmaui-customize-xaml-pages-layout-main/exercise2/TipCalculator/Platforms/Windows/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.mslearn_dotnetmaui_customize_xaml_pages_layout_main.exercise2.TipCalculator.Platforms.Windows.App.xaml
+build_metadata.AdditionalFiles.TargetPath = mslearn-dotnetmaui-customize-xaml-pages-layout-main\exercise2\TipCalculator\Platforms\Windows\App.xaml
+build_metadata.AdditionalFiles.RelativePath = mslearn-dotnetmaui-customize-xaml-pages-layout-main\exercise2\TipCalculator\Platforms\Windows\App.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/mslearn-dotnetmaui-customize-xaml-pages-layout-main/exercise2/TipCalculator/Resources/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.mslearn_dotnetmaui_customize_xaml_pages_layout_main.exercise2.TipCalculator.Resources.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = mslearn-dotnetmaui-customize-xaml-pages-layout-main\exercise2\TipCalculator\Resources\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = mslearn-dotnetmaui-customize-xaml-pages-layout-main\exercise2\TipCalculator\Resources\Colors.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/mslearn-dotnetmaui-customize-xaml-pages-layout-main/exercise2/TipCalculator/Resources/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.mslearn_dotnetmaui_customize_xaml_pages_layout_main.exercise2.TipCalculator.Resources.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = mslearn-dotnetmaui-customize-xaml-pages-layout-main\exercise2\TipCalculator\Resources\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = mslearn-dotnetmaui-customize-xaml-pages-layout-main\exercise2\TipCalculator\Resources\Styles.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/mslearn-dotnetmaui-customize-xaml-pages-layout-main/exercise3/TipCalculator/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.mslearn_dotnetmaui_customize_xaml_pages_layout_main.exercise3.TipCalculator.App.xaml
+build_metadata.AdditionalFiles.TargetPath = mslearn-dotnetmaui-customize-xaml-pages-layout-main\exercise3\TipCalculator\App.xaml
+build_metadata.AdditionalFiles.RelativePath = mslearn-dotnetmaui-customize-xaml-pages-layout-main\exercise3\TipCalculator\App.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/mslearn-dotnetmaui-customize-xaml-pages-layout-main/exercise3/TipCalculator/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.mslearn_dotnetmaui_customize_xaml_pages_layout_main.exercise3.TipCalculator.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = mslearn-dotnetmaui-customize-xaml-pages-layout-main\exercise3\TipCalculator\AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = mslearn-dotnetmaui-customize-xaml-pages-layout-main\exercise3\TipCalculator\AppShell.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/mslearn-dotnetmaui-customize-xaml-pages-layout-main/exercise3/TipCalculator/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.mslearn_dotnetmaui_customize_xaml_pages_layout_main.exercise3.TipCalculator.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = mslearn-dotnetmaui-customize-xaml-pages-layout-main\exercise3\TipCalculator\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = mslearn-dotnetmaui-customize-xaml-pages-layout-main\exercise3\TipCalculator\MainPage.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/mslearn-dotnetmaui-customize-xaml-pages-layout-main/exercise3/TipCalculator/Platforms/Windows/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.mslearn_dotnetmaui_customize_xaml_pages_layout_main.exercise3.TipCalculator.Platforms.Windows.App.xaml
+build_metadata.AdditionalFiles.TargetPath = mslearn-dotnetmaui-customize-xaml-pages-layout-main\exercise3\TipCalculator\Platforms\Windows\App.xaml
+build_metadata.AdditionalFiles.RelativePath = mslearn-dotnetmaui-customize-xaml-pages-layout-main\exercise3\TipCalculator\Platforms\Windows\App.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/mslearn-dotnetmaui-customize-xaml-pages-layout-main/exercise3/TipCalculator/Resources/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.mslearn_dotnetmaui_customize_xaml_pages_layout_main.exercise3.TipCalculator.Resources.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = mslearn-dotnetmaui-customize-xaml-pages-layout-main\exercise3\TipCalculator\Resources\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = mslearn-dotnetmaui-customize-xaml-pages-layout-main\exercise3\TipCalculator\Resources\Colors.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/mslearn-dotnetmaui-customize-xaml-pages-layout-main/exercise3/TipCalculator/Resources/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.mslearn_dotnetmaui_customize_xaml_pages_layout_main.exercise3.TipCalculator.Resources.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = mslearn-dotnetmaui-customize-xaml-pages-layout-main\exercise3\TipCalculator\Resources\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = mslearn-dotnetmaui-customize-xaml-pages-layout-main\exercise3\TipCalculator\Resources\Styles.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/Resources/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.Resources.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Colors.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/Resources/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.Resources.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/Samsung/Downloads/SQLite/mslearn-dotnetmaui-store-local-data-main/People/People/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = People.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
